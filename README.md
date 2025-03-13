@@ -2,6 +2,8 @@
 
 I'm currently learning AI.
 
+How to reach me: fisher-wang@163.com
+
 <!--
 **fisher-jingyuwang/fisher-jingyuwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
