@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I'm currently learning AI.
-
-How to reach me: fisher_ai@163.com
+Nice to meet you!
 
 <!--
 **fisher-jingyuwang/fisher-jingyuwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
